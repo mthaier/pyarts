@@ -5,3 +5,4 @@ Some python arts/implementations I thought are worth of sharing.
 1. Simple flow field, https://www.instagram.com/p/CxvITn-IjGa/?img_index=1
 2. Flow field circle outline, https://www.instagram.com/p/Cxva8JAo_zE/?img_index=1
 3. Flow field square outline, https://www.instagram.com/p/Cx3tPB_o6td/
+4. Flow field line, https://www.instagram.com/p/Cx59NHdo4Zp/
