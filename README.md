@@ -7,3 +7,4 @@ Some python arts/implementations I thought are worth of sharing.
 3. Flow field square outline, https://www.instagram.com/p/Cx3tPB_o6td/
 4. Flow field line, https://www.instagram.com/p/Cx59NHdo4Zp/
 5. Flow field emitted from vertical lines, https://www.instagram.com/p/Cx7tu7YIjjq/
+6. Flow field sine wave, https://www.instagram.com/p/Cx_QH7UISjx/
